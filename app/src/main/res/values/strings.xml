@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Hack</string>
+    <string name="accessibility_service_description">It\'ll change the typed word \"android\" to hack. Enable it to see the magic.</string>
+</resources>
